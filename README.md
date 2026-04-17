@@ -15,7 +15,7 @@ This project was built as part of a **Frontend Engineering assignment** focusing
 ## 🔗 Live Demo
 
 **Play the game here:**
-https://just-divide-game-deu27ujm1-manyagkarle13s-projects.vercel.app/
+https://just-dividegame.netlify.app/
 
 ---
 
